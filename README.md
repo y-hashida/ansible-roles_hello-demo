@@ -1,6 +1,5 @@
 # hello-demo role
-
-![ansible ci](https://github.com/link-u/ansible-roles_hello-demo/workflows/ansible%20ci/badge.svg)
+![ansible ci](https://github.com/y-hashida/ansible-roles_hello-demo/workflows/ansible%20ci/badge.svg)
 
 ## 1. 目次
 
